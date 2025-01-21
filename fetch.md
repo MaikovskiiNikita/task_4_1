@@ -13,3 +13,17 @@ git fetch
 * Обновляет информацию о всех удалённых ветках, чтобы можно было видеть последние изменения и коммиты.
 * Не изменяет файлы и ветки в рабочем каталоге.
 * Позволяет просмотреть все изменения и обновления перед их интеграцией, что помогает избежать конфликтов и ошибок при объединении веток.
+
+**Другие команды Git:**
+* [git init](./init.md)
+* [git add](./add.md)
+* [git status](./status.md)
+* [git commit](./commit.md)
+* [git clone](./clone.md)
+* [git merge](./merge.md)
+* [git pull](./pull.md)
+* [git push](./push.md)
+* [git log](./log.md)
+* [git show](./show.md)
+* [git remote add](./remote%20add.md)
+* [git config](./config.md)

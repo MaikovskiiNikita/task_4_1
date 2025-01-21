@@ -13,3 +13,17 @@ git merge
 + Не переписывает историю. Команда сохраняет точную историю всех изменений.
 + Создаёт коммит слияния. Этот коммит связывает истории обеих веток, делая очевидным факт их объединения
 + Простота использования. Команда не вызывает затруднений у начинающих и оптимальна в ситуациях, когда важно сохранить историю
+
+**Другие команды Git:**
+* [git init](./init.md)
+* [git add](./add.md)
+* [git status](./status.md)
+* [git commit](./commit.md)
+* [git clone](./clone.md)
+* [git fetch](./fetch.md)
+* [git pull](./pull.md)
+* [git push](./push.md)
+* [git log](./log.md)
+* [git show](./show.md)
+* [git remote add](./remote%20add.md)
+* [git config](./config.md)
